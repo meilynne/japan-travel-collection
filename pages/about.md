@@ -14,14 +14,7 @@ credits: true
 
 ## About the Collection
 
-This collection is comprised of photographs taken during travels in Japan, mainly in the cities of Kyoto, Tokyo, Osaka, as well as in Okinawa and Miyako-jima. 
+This collection is comprised of photographs taken during travels in Japan, mainly in the cities of Kyoto, Tokyo, Osaka, as well as in Okinawa and Miyako-jima. The current collection covers two of my visits to Japan: a trip in Summer 2023 that started with a 2 week study abroad course, followed by a 2 week itinerary with friends and then a 2 week itinerary with family and a 3 week trip in Summer 2025 with family. 
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
