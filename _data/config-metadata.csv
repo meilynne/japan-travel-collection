@@ -1,7 +1,10 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+device, Device Used,
+trip, Trip,
 date,Date Created,
+time, Time Taken,
 description,Description,
 subject,Subjects,true
 location,Location
